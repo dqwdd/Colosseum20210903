@@ -10,7 +10,6 @@ class ServerUtil {
 
 //        이 안에 만드는 변수 / 함수는 전부 static처럼 동작함
 
-
     }
 
 
